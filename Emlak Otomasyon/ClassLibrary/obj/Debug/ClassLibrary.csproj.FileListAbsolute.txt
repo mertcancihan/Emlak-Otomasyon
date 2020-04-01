@@ -1,0 +1,5 @@
+C:\Users\canci\Documents\Visual Studio 2019\Emlak Otomasyon\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\canci\Documents\Visual Studio 2019\Emlak Otomasyon\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\canci\Documents\Visual Studio 2019\Emlak Otomasyon\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\canci\Documents\Visual Studio 2019\Emlak Otomasyon\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\canci\Documents\Visual Studio 2019\Emlak Otomasyon\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache

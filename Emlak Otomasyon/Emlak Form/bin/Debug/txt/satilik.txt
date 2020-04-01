@@ -1,0 +1,10 @@
+True*manisa*Manisa Merkez*750*21*21*21*Dubleks*21*4200*5641
+True*konya*Hadim*973*12*32*213*Daire*21*2400*124342*
+True*muþ*Muþ Merkez*458*12*32*213*Daire*21*2400*124342*
+True*manisa*Manisa Merkez*750*21*21*21*Dubleks*21*4200*5641
+True*konya*Hadim*973*12*32*213*Daire*21*2400*124342*
+True*muþ*Muþ Merkez*458*12*32*213*Daire*21*2400*124342*
+True*manisa*Manisa Merkez*750*21*21*21*Dubleks*21*4200*5641
+True*konya*Hadim*973*12*32*213*Daire*21*2400*124342*
+True*muþ*Muþ Merkez*458*12*32*213*Daire*21*2400*124342*
+
